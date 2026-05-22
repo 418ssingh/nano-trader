@@ -14,7 +14,7 @@ from .latency_tracker import LatencyTracker, LatencyStats
 class ConnectionPool:
     """
     Manages persistent connections to IBKR.
-    Eliminates connection handshake overhead for sub-8ms latency.
+    Eliminates connections handshake overhead for sub-8ms latency.
     
     Usage:
         pool = ConnectionPool()
