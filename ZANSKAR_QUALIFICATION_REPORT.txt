@@ -37,12 +37,9 @@ TEST ENVIRONMENT:
 
 CONCLUSION:
 -----------
-Candidate EXCEEDS all requirements for Python Algo Developer role.
 Achieved 20x faster than required latency threshold (8ms).
 
 Test Date: 2026-03-30 23:39:27
-
-VERDICT: PASSED - Ready for Zanskar Securities interview
 
 RAW OUTPUT FROM TEST:
 --------------------
