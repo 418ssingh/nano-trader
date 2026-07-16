@@ -10,7 +10,7 @@
 
 
 
-A \*\*high-performance trading SDK\*\* for Interactive Brokers API that achieves \*\*sub-8ms order latency\*\* - 12x faster than industry requirements.
+A \*\*high-performance trading SDK\*\* for Interactive Brokers API that achieves \*\*sub-8ms order latency\*\* - 12x faster than industry requirement.
 
 
 
